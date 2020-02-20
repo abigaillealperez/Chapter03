@@ -1,0 +1,6 @@
+C:\Users\Programming6\source\repos\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.exe.config
+C:\Users\Programming6\source\repos\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.exe
+C:\Users\Programming6\source\repos\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.pdb
+C:\Users\Programming6\source\repos\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.csprojAssemblyReference.cache
+C:\Users\Programming6\source\repos\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.exe
+C:\Users\Programming6\source\repos\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.pdb
